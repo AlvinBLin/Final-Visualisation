@@ -1,0 +1,5 @@
+{
+  "name": "Project Visualisation",
+  "description": "A physics-informed reinforcement learning visualization comparing Max Pressure adaptive control against Fixed-Time control in urban traffic networks.",
+  "requestFramePermissions": []
+}
